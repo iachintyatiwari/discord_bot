@@ -1,0 +1,17 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "discord bot that can interact with other on your behalf",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "achintya tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "gitignore": "^0.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
